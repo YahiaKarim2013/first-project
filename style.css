@@ -1,0 +1,76 @@
+body{
+    margin: 0px;
+    background-color: white; 
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blue;
+    color: whitesmoke;
+}
+.nav-links{
+    display: flex;
+    list-style-type: none;
+}
+.nav-links li{
+    margin-left: 20px;
+}
+.nav-links a{
+    text-decoration: none;
+    color: white;
+}
+.h1{
+    margin-left: 20px;
+}
+.h6{
+    margin-right: 20px;
+}
+.upper-part{
+    background-color: blue;
+    margin: 0px;
+}
+.simple{
+    width: 500px;
+    background-color: blue;
+    margin-bottom: 50px;
+    border: 2px black solid;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.innerh1{
+    color: white;
+    text-align: right;
+    margin-right: 70px;
+}
+.long-paragraph{
+    color: white;
+    text-align: right;
+    margin-right: 70px;
+}
+.button{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 500px;
+}
+.button a{
+    font-size:x-large;
+    text-decoration: none;
+    color: blue;
+    padding: 20px 30px;
+}
+.h2{
+    color: blue;
+}
+.card-text{
+    color: blue;
+}
+.final-part{
+    background-color: blue;
+    padding: 50px 100px;
+}
+.final-paragraph{
+    text-align: center;
+    color: white;
+}
